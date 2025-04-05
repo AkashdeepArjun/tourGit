@@ -1,3 +1,4 @@
 jhopat.txt
 dustbin/
 .env
+*.log
